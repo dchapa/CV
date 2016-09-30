@@ -16,6 +16,7 @@ with Mexican Foreign Office, accounts payable of the office, relocation process 
 and updating of yearly office budget, security, overseeing maintenance of the office, relationship with providers of CAF in Mexico, general 
 accounting for the Mexican branch of CAF and handling of Mexican currency bank accounts.
 
+
 [*Pendulum Associates*](www.pendulum.com.mx]
 _Sep 2012-Dec2015_
 _Executive Coordinator_

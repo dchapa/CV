@@ -1,10 +1,10 @@
 ##CV David Chapa
 
 ####Personal Information
-Date of Birth: 16/7/1985
-Natinoality: Mexican
-Address: Luchthavenlaan 79, Tilburg, NL
-Email: david.chapa.m@gmail.com
+#####Date of Birth: 16/7/1985
+#####Natinoality: Mexican
+#####Address: Luchthavenlaan 79, Tilburg, NL
+#####Email: david.chapa.m@gmail.com
 
 ####Work Experiece
 

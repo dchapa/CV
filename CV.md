@@ -17,7 +17,7 @@ and updating of yearly office budget, security, overseeing maintenance of the of
 accounting for the Mexican branch of CAF and handling of Mexican currency bank accounts.
 
 
-[*Pendulum Associates*](www.pendulum.com.mx]
+[*Pendulum Associates*](www.pendulum.com.mx)
 _Sep 2012-Dec2015_
 _Executive Coordinator_
 Working directly with CEO of the company in highly sensitive projects such as reviews of financial status of investment portfolios and 
@@ -31,6 +31,6 @@ _MSc. in Economics_
 (in progress)
 
 _Bachelor in Economics_
-[*Universidad Autonoma de Nuevo Leon*](www.uanl.mx]
+[*Universidad Autonoma de Nuevo Leon*](www.uanl.mx)
 2005-2010 Bachelor in Economics, with a exchange semester at [University of Finance and Administration](www.vsfs.cz) in Prague, Czech Republic
 
